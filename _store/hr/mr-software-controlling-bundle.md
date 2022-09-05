@@ -1,5 +1,5 @@
 ---
-title: Controlling plugin (German law, break time check, overtime)
+title: Kontroling (njemački zakon, provjera vremena pauze, prekovremeni rad)
 intro: "Kimai dodatak za provjeravanje je li netko od tvojin korisnika prekršio njemački zakon o pauzama + usporedba nominalnog i stvarnog radnog vremena + prikaz prekovremenog rada"
 type: plugin
 tags:

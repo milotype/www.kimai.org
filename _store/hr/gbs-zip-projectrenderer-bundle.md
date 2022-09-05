@@ -1,5 +1,5 @@
 ---
-title: ZipProjectRenderer
+title: Komprimiranje projekata
 intro: "Dodatak za izvoz jedne PDF datoteke po projektu za više odabranih projekata."
 type: plugin
 tags:
